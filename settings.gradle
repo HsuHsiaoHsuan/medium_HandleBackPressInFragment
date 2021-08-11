@@ -1,0 +1,2 @@
+rootProject.name = "HandleBackPressInFragment"
+include ':app'
